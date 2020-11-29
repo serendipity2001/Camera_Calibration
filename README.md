@@ -43,5 +43,6 @@
 ## 畸变参数
 在几何光学和阴极射线管显示中，畸变是对直线投影的一种偏移。简单来说直线投影是场景内的一条直线投影到图片上也保持为一条直线。那畸变简单来说就是一条直线投影到图片上不能保持为一条直线了，这是一种光学畸变。畸变一般可以分为两大类，包括径向畸变和切向畸变。主要的一般径向畸变有时也会有轻微的切向畸变。
 # 特别说明：  
-本文原理部分参考地址：https://blog.csdn.net/weixin_43843780/article/details/89294131  
+本文原理部分参考地址：https://blog.csdn.net/weixin_43843780/article/details/89294131 
+
 代码部分参考： https://github.com/Nocami/PythonComputerVision-6-CameraCalibration 
